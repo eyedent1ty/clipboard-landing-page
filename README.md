@@ -10,7 +10,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Repository](https://github.com/eyedent1ty/clipboard-landing-page)
-- Live Site URL: [See Live](https://your-live-site-url.com)
+- Live Site URL: [See Live](https://eyedent1ty-clipboard-landing-page.netlify.app)
 
 ### Built with
 
